@@ -32,6 +32,6 @@
 *.app
 
 # Cmake Files
-./CMakeFiles
+./CMakeFiles/
 ./CMakeCache.txt
 ./cmake_install.cmake
